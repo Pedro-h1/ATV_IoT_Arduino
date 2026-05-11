@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://www.tinkercad.com/things/eaDuqoehwpI-projeto-1-led-que-pisca?sharecode=Zl7HPptmwilCa87d9QcAK82NNWY26albtfqIMDGEm8I">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV1+-+Introdução+ao+Arduino+no+Tinkercad" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=🤖💡+ATV1+-+LED+que+Pisca" />
   </a>
 </div>
 
@@ -67,13 +67,20 @@
     aplicando conceitos de <strong>programação embarcada</strong>, temporização com <strong>delay()</strong>
     e controle de portas digitais utilizando <strong>C/C++</strong>.
   </p>
+  
+  <p>
+    🔗 <strong>Link para a atividade:</strong><br>
+    <a href="https://www.tinkercad.com/things/eaDuqoehwpI-projeto-1-led-que-pisca?sharecode=Zl7HPptmwilCa87d9QcAK82NNWY26albtfqIMDGEm8I">
+      Projeto 1 - LED que Pisca
+    </a>
+  </p>
 </div>
 
 ---
 
 <div align="center">
   <a href="https://www.tinkercad.com/things/5Erf0lvVk3S-projeto-2-led-com-botao-desliga-e-liga?sharecode=mj0_dH5qwcsQaZd7soV7tpTLgDi-SM7k38kJ8etCDg4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📂+ATV2+-+Controle+de+LED+com+Botão" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=🤖🔘💡+ATV2+-+LED+com+Botão+Desliga+e+Liga" />
   </a>
 </div>
 
@@ -84,4 +91,12 @@
     <strong>entradas e saídas digitais</strong>, variáveis de controle, estruturas condicionais
     <strong>if</strong> e funções como <strong>digitalRead()</strong> e <strong>digitalWrite()</strong>.
   </p>
+  
+  <p>
+    🔗 <strong>Link para a atividade:</strong><br>
+    <a href="https://www.tinkercad.com/things/5Erf0lvVk3S-projeto-2-led-com-botao-desliga-e-liga?sharecode=mj0_dH5qwcsQaZd7soV7tpTLgDi-SM7k38kJ8etCDg4">
+      Projeto 2 - LED com Botão Desliga e Liga
+    </a>
+  </p>
+</div>
 </div>
