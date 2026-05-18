@@ -110,7 +110,9 @@
 <a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/Projeto%202%20-%20Pedro%20Henrique.png">Projeto 2 - Pedro Henrique</a><br>
 <a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/Projeto%202%20-%20Vitor%20Andrade.png">Projeto 2 - Vitor Andrade</a><br>
 <a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/Projeto%202%20-%20Enzo%20Ferrari.png">Projeto 2 - Enzo Ferrari</a><br><br>
+</p>
 
+<p align="center">
 <a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/Projeto%202.1%20-%20Pedro%20Henrique.png">Projeto 2.1 - Pedro Henrique</a><br>
 <a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/Projeto%202.1%20-%20Vitor%20Andrade.png">Projeto 2.1 - Vitor Andrade</a><br>
 <a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/Projeto%202.1%20-%20Enzo%20Ferrari.png">Projeto 2.1 - Enzo Ferrari</a>
