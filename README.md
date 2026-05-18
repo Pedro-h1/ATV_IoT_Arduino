@@ -159,6 +159,16 @@
 </p>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=8000&pause=1500&color=bd93f9&center=true&vCenter=true&width=500&lines=💻+Código+Fonte+Utilizado" />
+</div>
+
+<p align="center">
+<a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/projeto_3_elevador_de_6_andares1-pedro_henrique.ino">Projeto 3 - Pedro Henrique</a><br>
+<a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/projeto_3_elevador_de_6_andares1-vitor_andrade.ino">Projeto 3 - Vitor Andrade</a><br>
+<a href="https://github.com/Pedro-h1/ATV_IoT_Arduino/blob/main/assets/projeto_3_elevador_de_6_andares1-enzo_ferrari.ino">Projeto 3 - Enzo Ferrari</a>
+</p>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=8000&pause=1500&color=bd93f9&center=true&vCenter=true&width=500&lines=🔗+Links+dos+Projetos" />
 </div>
 
