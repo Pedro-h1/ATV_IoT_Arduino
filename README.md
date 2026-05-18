@@ -179,7 +179,7 @@
 <p align="center">
 <a href="https://www.tinkercad.com/things/9DhaT71TXjl-projeto-3-elevador-de-6-andares?sharecode=IWfsrdHMPzTWSkQ-BUh4PU8emuZli8kUvodKKvfauWc">Projeto 3 - Pedro Henrique</a><br>
 <a href="https://www.tinkercad.com/things/8dTnRWqZ7Tp-projeto-3-elevador-de-6-andares?sharecode=R4ya6d9g7fqrgfJVHBoqeh7OB9fv-8xLjGwzJBAC2-8">Projeto 3 - Vitor Andrade</a><br>
-<a href="https://www.tinkercad.com/things/34EqtWjrNhm-copy-of-projeto-3-elevador-de-6-andares">Projeto 3 - Enzo Ferrari</a>
+<a href="https://www.tinkercad.com/things/34EqtWjrNhm-copy-of-projeto-3-elevador-de-6-andares?sharecode=T4Oo2p1wOH_sS827y9o4FlCxfuzQsk0ha3JJ1iWac1c">Projeto 3 - Enzo Ferrari</a>
 </p>
 
 <div align="center">
