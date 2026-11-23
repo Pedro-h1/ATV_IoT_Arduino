@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=00979D&text=🤖+ATV-IoT+—+Arduino&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🌐+Atividades+da+disciplina+de+Internet+das+Coisas+e+Eletrônica&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=🤖+ATV-IoT+—+Arduino&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🌐+Atividades+da+disciplina+de+Internet+das+Coisas+e+Eletrônica&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -208,4 +208,4 @@
   </p>
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=00979D&animation=fadeIn" width="100%" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5649ED,100:A25CED&animation=fadeIn" width="100%" /></div>
